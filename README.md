@@ -111,18 +111,3 @@ Custom **DAX measures** were created to calculate business KPIs.
 
 This project shows how data analytics can be applied to solve real-world HR problems.  
 By combining Python, SQL, and Power BI, the analysis provides actionable insights for decision-making.
-
----
-
-## 🚀 Future Enhancements
-
-- Predict attrition using machine learning models  
-- Include employee engagement and performance data  
-- Add time-based attrition trend analysis  
-
----
-
-## ⭐ Acknowledgements
-
-- Kaggle for providing the dataset  
-- Bootcamp instructors for guidance and support  
