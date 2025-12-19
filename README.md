@@ -122,13 +122,6 @@ By combining Python, SQL, and Power BI, the analysis provides actionable insight
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-Data Analyst Bootcamp (8 Weeks)
-
----
-
 ## ⭐ Acknowledgements
 
 - Kaggle for providing the dataset  
